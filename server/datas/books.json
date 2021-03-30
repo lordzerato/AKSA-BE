@@ -1,0 +1,51 @@
+[
+    {
+        "Id": "e8d47ada-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c87aac-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 01",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d47d6e-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c87aac-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 02",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d47e5e-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c87cf0-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 03",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d47f30-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c87cf0-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 04",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d47ff8-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c87f52-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 05",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d482aa-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c88038-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 06",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    },
+    {
+        "Id": "e8d4837c-910f-11eb-a8b3-0242ac130003",
+        "authorId": "78c88100-910f-11eb-a8b3-0242ac130003",
+        "Title": "Book 07",
+        "ReleaseYear": "1999",
+        "Description": "This is book"
+    }
+]
