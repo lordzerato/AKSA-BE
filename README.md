@@ -13,6 +13,10 @@ This app is used to manage Books and their Author.
 1. Install Node.js
 2. Open project in code editor
 3. Open terminal
-4. Open directory want to use (cd Server / Client)
+4. Open directory with terminal (cd Server / Client)
 5. npm install
-6. npm run start
+6. npm i -D nodemon sequelize
+7. npm run dbc
+8. npm run dbm
+9. npm run dbs
+10. npm run start
